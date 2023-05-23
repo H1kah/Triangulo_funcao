@@ -32,9 +32,6 @@ namespace Course
                 //áreaY maior
                 Console.WriteLine("Maior área: Y");
             }
-
-           
-
         }
         //aqui é uma parte para decidir o peso das medidas
         public static double[] LerMedidasTriangulo(string nomeTriangulo)
