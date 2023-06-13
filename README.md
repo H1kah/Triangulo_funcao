@@ -1,4 +1,4 @@
-# Triângulo_CLasse 🔼
+# Triângulo_Classe 🔼
 ## Status: Concluído 👍
 
 ### Descrição 📖
