@@ -5,7 +5,7 @@ using System.Globalization;
 namespace Course
 {
     //criando uma classe para que possa ser referida depois
-    public class Triangulo
+    public class Program
         {
         //aqui está criando a parte principal da programação, destacando os valores de cada coisa.
         public static void Main(string[] args)
